@@ -1,10 +1,7 @@
-# Task
+## Task
 
-In this task, you will be exploring `lists` in depth.
+In this task, you will be exploring lists and loops in depth.
 
-1. Fork and clone [this repository](https://github.com/JoinCODED/TASK-Python-Loops.git).
-2. `cd` into the repo folder.
-3. Open the `main.py` file in your code editor.
-4. Complete the functions, following the steps in the `main.py` file.
-5. Test your work by running `python3 test.py` in the terminal.
-6. Push your code.
+1. Fork [this task](https://replit.com/@InstructorCODED/7-Loops-Weather#main.py).
+2. Open `main.py` and complete the functions, following the steps in the `main.py` file.
+3. Test your work by running the code and getting the expected output.
