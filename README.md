@@ -1,7 +1,7 @@
 ## Setup
 
 1. Go to the [following link](https://replit.com/team/coded-instructor).
-2. Open the task **4. Functions**.
+2. Open the task **7. Loops - Weather-1**.
 3. Open `main.py` and solve the task.
 4. Once you're done click on the submit button.
 
